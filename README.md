@@ -1,7 +1,7 @@
 # CEO-Performance
 Data Visualization in R
 
-![data visualization](https://octodex.github.com/images/yaktocat.png)
+![data visualization](https://github.com/ZiHG/CEO-Performance/blob/master/in%20or%20out.png)
 
 
 Based on the dataset “Top 100 CEOs Final 2016”, I made rank groups showed in the y-axis and counted the number of INSIDER and OUTSIDER in each group, which is showed in the x-axis. I want people to pay attention to the top 40 CEOs, so I drew a rectangular in red line around “1-20” and “21-40”.

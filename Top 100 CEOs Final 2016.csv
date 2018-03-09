@@ -1,0 +1,108 @@
+RANK GROUP,OVERALL RANK,ENGINEERING DEGREE,Ceo Name,Company,Tenure,START YEAR,Industry,"INSIDER/
+OUTSIDER",Country,MBA,TOTAL FINANCIAL RANK,SUSTAINALYTICS RANK,CSRHUB RANK,,,"COUNTRY ADJUSTED
+TSR (in %)","COUNTRY ADJUSTED
+TSR RANK","INDUSTRY ADJUSTED
+TSR (in %)","INDUSTRY ADJUSTED
+TSR RANK","MARKET CAP CHANGE
+($BN)","MARKET CAP CHANGE
+RANK",SUSTAINALYTICS SCORE,CSRHUB SCORE,GENDER,AGE
+1-20,1,NO,Lars Rebien S?rensen,Novo Nordisk,17,2000,Health Care,INSIDER,Denmark,NO,6,32,144,,,"1,006",48,"1,650",30,137,12,82.25,63.55,MALE,61
+1-20,2,NO,Martin Sorrell,WPP,31,1986,Consumer Services,OUTSIDER,United Kingdom,YES,12,139,57,,,"1,665",30,"1,621",31,39,86,73.77,66.18,MALE,71
+1-20,3,NO,Pablo Isla,Inditex,12,2005,Retail,OUTSIDER,Spain,NO,24,71,163,,,589,77,500,95,88,24,77.46,63.08,MALE,52
+1-20,4,NO,Herbert Hainer*,Adidas,16,2001,Consumer Goods,INSIDER,Germany,NO,46,86,110,,,667,68,650,77,25,144,76.54,64.51,MALE,61
+1-20,5,YES,Roberto Egydio Setubal,Ita? Unibanco ,23,1994,Financial Services,INSIDER,Brazil,NO,3,248,294,,,"11,069",6,"3,018",17,62,46,68.51,60.17,MALE,61
+1-20,6,YES,Jen-Hsun Huang,Nvidia,24,1993,Information Technology,INSIDER,United States,NO,29,141,259,,,"2,063",25,"2,180",25,21,175,73.71,60.89,MALE,53
+1-20,7,YES,Bernard Arnault ,LVMH,28,1989,Consumer Goods,OUTSIDER,France,NO,20,257,236,,,645,70,574,87,83,26,68.25,61.52,MALE,67
+1-20,8,YES,Elmar Degenhart,Continental,8,2009,Automobile,OUTSIDER,Germany,NO,33,153,335,,,704,65,519,92,39,85,73.06,59.2,MALE,57
+1-20,9,YES,Beno?t Potier,Air Liquide,20,1997,Materials,INSIDER,France,NO,72,142,41,,,259,158,281,148,35,95,73.68,66.63,MALE,58
+1-20,10,YES,Jacques Aschenbroich,Valeo,8,2009,Automobile,OUTSIDER,France,NO,74,81,87,,,"1,215",37,870,62,12,307,76.74,65.2,MALE,61
+1-20,11,NO,Mark Parker,Nike,11,2006,Consumer Goods,INSIDER,United States,NO,29,304,254,,,448,94,417,108,91,23,66.28,60.99,MALE,60
+1-20,12,YES,Carlos Alves de Brito,Anheuser-Busch InBev,12,2005,Consumer Goods,INSIDER,Belgium,YES,36,217,317,,,413,108,302,140,190,8,69.81,59.6,MALE,56
+1-20,13,YES,Florentino P?rez Rodr?guez,ACS,24,1993,Industrials,INSIDER,Spain,NO,27,225,437,,,"2,751",22,"3,051",16,21,172,69.41,57.04,MALE,69
+1-20,14,NO,Howard Schultz,Starbucks,9,2008,Consumer Goods,INSIDER,United States,NO,28,254,434,,,494,91,502,94,74,39,68.39,57.16,MALE,62
+1-20,15,NO,Martin Bouygues,Bouygues,28,1989,Industrials,INSIDER,France,NO,77,178,160,,,526,87,773,68,14,260,71.68,63.18,MALE,64
+1-20,16,NO,Marc Benioff,Salesforce.com,16,2001,Information Technology,INSIDER,United States,NO,11,424,458,,,"1,536",31,"1,545",35,47,65,62.11,56.65,MALE,51
+1-20,17,NO,Richard Cousins,Compass,11,2006,Consumer Goods,OUTSIDER,United Kingdom,NO,55,343,200,,,531,86,351,129,29,121,64.92,62.3,MALE,57
+1-20,18,NO,Martin Gilbert ,Aberdeen Asset Management,34,1983,Financial Services,INSIDER,United Kingdom,NO,108,93,39,,,998,49,"1,146",43,8,418,76.05,66.8,MALE,60
+1-20,19,NO,Johan Thijs,KBC,5,2012,Financial Services,INSIDER,Belgium,NO,106,51,134,,,189,181,216,176,25,143,79.87,63.91,MALE,50
+1-20,20,YES,Michael Mussallem,Edwards Lifesciences,17,2000,Health Care,INSIDER,United States,NO,22,302,590,,,"2,940",19,"2,853",19,23,149,66.36,53.35,MALE,63
+21-40,21,NO,George Scangos,Biogen,7,2010,Health Care,OUTSIDER,United States,NO,84,135,273,,,303,134,134,245,53,55,74.06,60.56,MALE,68
+21-40,22,NO,Jean-Fran?ois van Boxmeer,Heineken,12,2005,Consumer Goods,INSIDER,Netherlands,NO,113,102,84,,,211,172,102,280,43,74,75.5,65.27,MALE,54
+21-40,23,NO,Mark?Bristow,Randgold Resources,22,1995,Materials,INSIDER,United Kingdom,NO,101,60,237,,,"1,183",40,"1,133",45,9,399,78.32,61.48,MALE,57
+21-40,24,YES,Lars Rasmussen,Coloplast,9,2008,Health Care,INSIDER,Denmark,YES,100,89,226,,,434,102,404,110,14,264,76.27,61.73,MALE,57
+21-40,25,NO,Simon Wolfson,Next,16,2001,Retail,INSIDER,United Kingdom,NO,67,409,172,,,705,64,715,72,15,253,62.52,62.9,MALE,48
+21-40,26,NO,Michael Ward,CSX,14,2003,Transportation,INSIDER,United States,YES,58,382,277,,,429,105,329,136,33,106,63.52,60.52,MALE,65
+21-40,27,NO,Fabrizio Freda,Est?e Lauder,8,2009,Consumer Goods,INSIDER,United States,NO,56,360,321,,,365,121,405,109,33,107,64.17,59.4,MALE,58
+21-40,28,YES,Ignacio Gal˜n,Iberdrola,16,2001,Utilities,OUTSIDER,Spain,YES,125,38,96,,,100,262,224,170,28,127,81.2,64.89,MALE,65
+21-40,29,NO,Johan Molin,Assa Abloy ,12,2005,Industrials,OUTSIDER,Sweden,NO,91,197,216,,,304,133,387,114,18,209,70.51,61.99,MALE,57
+21-40,30,YES,Wes Bush,Northrop Grumman,7,2010,Industrials,INSIDER,United States,NO,73,278,287,,,272,150,278,154,34,99,67.2,60.31,MALE,55
+21-40,31,NO,Maurice L?vy,Publicis,30,1987,Consumer Services,INSIDER,France,NO,44,415,393,,,"1,152",41,"1,167",42,19,200,62.36,58,MALE,74
+21-40,32,NO,Daniel Amos,Aflac,27,1990,Financial Services,INSIDER,United States,NO,13,551,516,,,"1,018",46,"1,589",32,41,79,56.83,55.24,MALE,64
+21-40,32,NO,Robert Iger,Walt Disney,12,2005,Consumer Services,INSIDER,United States,NO,47,400,395,,,292,138,287,145,162,11,62.85,57.97,MALE,65
+21-40,34,NO,Leslie Wexner,L Brands,54,1963,Retail,INSIDER,United States,NO,15,381,682,,,"1,517",33,"1,790",28,34,103,63.57,51.29,MALE,78
+21-40,35,NO,Blake Nordstrom,Nordstrom,17,2000,Retail,INSIDER,United States,NO,68,265,401,,,664,69,630,82,16,239,68.04,57.83,MALE,55
+21-40,36,YES,James Taiclet Jr.,American Tower,14,2003,Financial Services,INSIDER,United States,NO,21,333,742,,,876,53,949,58,43,75,65.33,48.66,MALE,56
+21-40,37,YES,Anders Runevad,Vestas Wind Systems,4,2013,Industrials,OUTSIDER,Denmark,YES,134,29,145,,,280,143,279,152,12,300,82.46,63.52,MALE,56
+21-40,38,YES,Hock Tan ,Broadcom,11,2006,Information Technology,OUTSIDER,United States,YES,19,653,447,,,743,63,802,66,53,53,52.51,56.88,MALE,63
+21-40,39,NO,Laurence Douglas Fink,BlackRock,29,1988,Financial Services,INSIDER,United States,YES,4,427,807,,,"3,077",17,"3,220",15,74,40,61.95,46.19,MALE,63
+21-40,40,NO,"Tai-Ming ""Terry"" Gou",Hon Hai Precision,43,1974,Information Technology,INSIDER,Taiwan,NO,7,458,758,,,"4,933",11,"4,006",13,43,76,60.55,47.86,MALE,65
+41-60,41,NO,Douglas Baker Jr.,Ecolab,13,2004,Materials,INSIDER,United States,NO,100,283,199,,,201,176,199,181,29,119,67.04,62.38,MALE,57
+41-60,42,NO,Shigenobu Nagamori,Nidec,44,1973,Industrials,INSIDER,Japan,NO,30,506,544,,,"2,182",23,"1,909",27,21,177,58.67,54.6,MALE,71
+41-60,43,NO,Debra Cafaro,Ventas,18,1999,Financial Services,OUTSIDER,United States,NO,27,503,588,,,"2,089",24,"2,136",26,22,160,58.87,53.41,FEMALE,58
+41-60,44,NO,Richard Fairbank,Capital One,23,1994,Financial Services,INSIDER,United States,YES,25,623,491,,,839,55,"1,449",36,32,108,54.05,55.77,MALE,65
+41-60,45,NO,"Huateng ""Pony"" Ma ",Tencent,19,1998,Information Technology,INSIDER,Hong Kong,NO,2,605,710,,,"19,801",4,"19,740",4,194,7,54.76,49.95,MALE,44
+41-60,46,NO,Tadashi Yanai,Fast Retailing ,33,1984,Retail,INSIDER,Japan,NO,17,436,773,,,"3,149",16,"2,539",21,27,135,61.5,47.5,MALE,67
+41-60,47,NO,Jean-Paul Agon,L'Or?al,11,2006,Consumer Goods,INSIDER,France,NO,161,56,15,,,141,212,52,414,59,50,79.22,68.93,MALE,59
+41-60,48,YES,Xavier Huillard,Vinci,11,2006,Industrials,INSIDER,France,NO,114,344,118,,,141,211,157,216,34,102,64.87,64.27,MALE,61
+41-60,49,NO,Frederick Smith,FedEx,46,1971,Transportation,INSIDER,United States,NO,35,408,692,,,383,115,807,65,44,71,62.57,50.82,MALE,71
+41-60,50,NO,Hugh Grant,Monsanto,14,2003,Materials,INSIDER,United States,YES,19,642,595,,,821,56,794,67,51,59,53.01,53.31,MALE,58
+41-60,51,NO,Marillyn Hewson,Lockheed Martin,4,2013,Industrials,INSIDER,United States,NO,118,211,249,,,127,224,121,257,51,62,69.97,61.07,FEMALE,63
+41-60,52,NO,Ronnie Leten,Atlas Copco,8,2009,Industrials,INSIDER,Sweden,NO,164,33,65,,,92,273,117,261,24,148,82.02,65.92,MALE,60
+41-60,53,YES,Hamid Moghadam,Prologis,20,1997,Financial Services,INSIDER,United States,YES,115,138,358,,,123,230,301,141,22,168,73.89,58.68,MALE,59
+41-60,53,NO,David Simon,Simon Property Group,22,1995,Financial Services,INSIDER,United States,YES,5,746,630,,,"1,761",29,"2,379",24,75,36,47.63,52.58,MALE,54
+41-60,55,NO,Sean Boyd,Agnico Eagle Mines,19,1998,Materials,INSIDER,Canada,NO,121,163,300,,,540,84,682,74,9,391,72.37,60.08,MALE,58
+41-60,56,NO,Gilles Schnepp,Legrand,13,2004,Industrials,INSIDER,France,NO,174,14,26,,,213,171,194,186,10,354,85.51,67.92,MALE,57
+41-60,57,YES,Renato Alves Vale,CCR,18,1999,Transportation,INSIDER,Brazil,NO,91,324,384,,,"1,998",26,"1,585",33,9,397,65.53,58.22,MALE,67
+41-60,58,NO,Glenn Chamandy,Gildan Activewear,13,2004,Consumer Goods,INSIDER,Canada,NO,146,160,112,,,595,76,562,88,7,466,72.55,64.35,MALE,55
+41-60,59,NO,Jean-Paul Clozel,Actelion,17,2000,Health Care,INSIDER,Switzerland,NO,39,637,492,,,"1,116",43,"1,772",29,20,191,53.3,55.73,MALE,61
+41-60,60,NO,Larry Merlo,CVS Health,6,2011,Retail,INSIDER,United States,NO,75,449,400,,,152,201,197,182,84,25,60.96,57.83,MALE,60
+61-80,61,NO,Michel Landel,Sodexo,12,2005,Consumer Goods,INSIDER,France,NO,159,131,50,,,259,156,162,215,12,296,74.29,66.34,MALE,65
+61-80,62,NO,Paolo Rocca,Tenaris,15,2002,Energy,INSIDER,Argentina,NO,64,282,665,,,445,97,813,64,18,218,67.07,51.86,MALE,63
+61-80,63,NO,??igo Meir˜s,Ferrovial,8,2009,Industrials,INSIDER,Spain,YES,168,64,53,,,191,179,152,223,13,289,78.14,66.3,MALE,53
+61-80,64,NO,Ajaypal Banga,Mastercard,7,2010,Information Technology,INSIDER,United States,YES,54,489,563,,,265,153,277,155,93,22,59.44,54.15,MALE,56
+61-80,65,NO,Ian Cook,Colgate-Palmolive ,10,2007,Consumer Goods,INSIDER,United States,NO,138,293,98,,,105,255,104,277,46,69,66.63,64.83,MALE,64
+61-80,66,NO,Stephen Luczo,Seagate Technology,8,2009,Information Technology,INSIDER,United States,YES,127,103,418,,,294,137,280,151,14,273,75.46,57.37,MALE,59
+61-80,67,NO,Leonard Schleifer,Regeneron Pharmaceuticals,29,1988,Health Care,INSIDER,United States,NO,8,608,868,,,"11,766",5,"11,615",5,37,91,54.51,41.79,MALE,63
+61-80,68,NO,Germ˜n Larrea Mota-Velasco,Grupo Mexico,23,1994,Materials,INSIDER,Mexico,NO,23,530,839,,,"1,916",27,"1,050",51,31,113,57.66,44.3,MALE,74
+61-80,68,NO,Eric Wiseman,VF,9,2008,Consumer Goods,INSIDER,United States,YES,85,280,593,,,284,141,280,150,23,151,67.14,53.32,MALE,61
+61-80,70,YES,Jef Colruyt ,Colruyt,23,1994,Retail,INSIDER,Belgium,NO,76,368,589,,,"1,301",35,"1,422",37,11,337,63.95,53.4,MALE,57
+61-80,71,NO,Kendall Powell,General Mills,10,2007,Consumer Goods,INSIDER,United States,YES,144,202,217,,,113,243,117,263,30,116,70.27,61.99,MALE,62
+61-80,72,NO,Gregory Case,Aon,12,2005,Financial Services,OUTSIDER,United Kingdom,YES,57,570,548,,,326,126,428,103,32,109,56.14,54.46,MALE,53
+61-80,73,NO,Masayoshi Son,SoftBank,36,1981,Telecommunication,INSIDER,Japan,NO,16,716,736,,,"1,209",38,697,73,53,54,49.24,48.79,MALE,58
+61-80,74,NO,John Wren,Omnicom,20,1997,Consumer Services,INSIDER,United States,NO,40,543,726,,,533,85,737,70,30,117,57.1,49.21,MALE,64
+61-80,75,NO,Bobby Kotick,Activision Blizzard,26,1991,Information Technology,INSIDER,United States,NO,10,698,812,,,"8,205",9,"7,974",7,33,104,50.33,46.07,MALE,53
+61-80,76,YES,Jeffrey Bezos,Amazon,21,1996,Retail,INSIDER,United States,NO,1,719,867,,,"33,292",2,"32,844",2,311,2,49.19,42.17,MALE,52
+61-80,77,NO,Pierre Nanterme,Accenture,6,2011,Information Services,INSIDER,United States,NO,160,229,88,,,81,295,82,319,52,57,69.23,65.2,MALE,56
+61-80,78,NO,John Mackey,Whole Foods Market,37,1980,Retail,INSIDER,United States,NO,70,471,570,,,"1,880",28,"2,393",23,10,348,60.03,54.07,MALE,62
+61-80,79,YES,Richard Templeton,Texas Instruments,13,2004,Information Technology,INSIDER,United States,NO,155,106,258,,,56,352,149,226,41,77,75.38,60.96,MALE,58
+61-80,80,NO,Vittorio Colao,Vodafone,9,2008,Telecommunication,INSIDER,United Kingdom,YES,171,134,103,,,89,281,69,359,49,63,74.11,64.66,MALE,54
+81-100,81,YES,"Wing Kin ""Alfred"" Chan",Hong Kong and China Gas,20,1997,Utilities,INSIDER,Hong Kong,NO,81,364,599,,,312,132,312,138,23,159,64.08,53.28,MALE,65
+81-100,82,NO,Kent Thiry,DaVita,18,1999,Health Care,OUTSIDER,United States,YES,41,607,689,,,"2,818",20,"2,411",22,17,231,54.63,51.07,MALE,60
+81-100,83,YES,Tsai Ming-Kai ,MediaTek,20,1997,Information Technology,INSIDER,Taiwan,NO,109,80,676,,,230,166,433,101,15,247,76.8,51.41,MALE,66
+81-100,84,NO,Jeffrey Ettinger,Hormel Foods,11,2006,Consumer Goods,INSIDER,United States,NO,100,463,366,,,369,120,352,128,17,228,60.32,58.54,MALE,58
+81-100,85,NO,George Weston,Associated British Foods ,12,2005,Consumer Goods,INSIDER,United Kingdom,YES,92,496,399,,,319,130,172,205,29,123,59.24,57.86,MALE,52
+81-100,86,NO,Bruce Flatt,Brookfield Asset Management,15,2002,Financial Services,INSIDER,Canada,NO,37,654,686,,,"1,097",44,"1,146",44,22,171,52.5,51.21,MALE,51
+81-100,87,NO,Haruo Naito,Eisai,29,1988,Health Care,INSIDER,Japan,YES,106,383,413,,,596,75,171,206,18,219,63.4,57.44,MALE,69
+81-100,88,NO,Christopher Rex,Ramsay Health Care,9,2008,Health Care,INSIDER,Australia,NO,122,445,229,,,745,62,432,102,9,388,61.13,61.63,MALE,57
+81-100,89,NO,Robert Sands,Constellation Brands,10,2007,Consumer Goods,INSIDER,United States,NO,50,648,609,,,546,83,521,91,27,134,52.77,53.09,MALE,57
+81-100,90,NO,Neal Patterson,Cerner,37,1980,Health Care,INSIDER,United States,YES,45,563,738,,,"1,244",36,"1,385",38,18,210,56.33,48.75,MALE,66
+81-100,91,YES,Oscar Gonz˜lez Rocha,Southern Copper,13,2004,Materials,INSIDER,Mexico,NO,32,597,825,,,554,82,682,75,41,82,55.03,45.4,MALE,78
+81-100,92,NO,Ronald Havner Jr.,Public Storage,15,2002,Financial Services,INSIDER,United States,NO,15,780,792,,,"1,010",47,"1,080",49,46,68,44.54,46.81,MALE,59
+81-100,93,NO,Andr? Desmarais,Power Corporation of Canada,21,1996,Financial Services,INSIDER,Canada,NO,96,429,480,,,634,71,"1,025",53,10,346,61.8,56.18,MALE,59
+81-100,93,NO,Paul Desmarais Jr.,Power Corporation of Canada,21,1996,Financial Services,INSIDER,Canada,YES,96,429,480,,,634,71,"1,025",53,10,346,61.8,56.18,MALE,61
+81-100,95,NO,Gregory Goodman,Goodman,22,1995,Financial Services,INSIDER,Australia,NO,80,494,572,,,"23,672",3,"24,201",3,8,420,59.28,54.05,MALE,53
+81-100,96,NO,Reed Hastings,Netflix,19,1998,Retail,INSIDER,United States,NO,9,792,845,,,"7,278",10,"6,257",9,38,87,42.82,43.91,MALE,55
+81-100,97,NO,Li Ka-shing,CK Hutchison Holdings,67,1950,Industrials,INSIDER,Hong Kong,NO,38,790,629,,,383,116,619,84,51,60,43.73,52.6,MALE,88
+81-100,98,NO,Thomas Ebeling ,ProSiebenSat.1,8,2009,Consumer Services,OUTSIDER,Germany,NO,49,649,687,,,"4,543",12,"3,977",14,13,280,52.64,51.12,MALE,57
+81-100,99,NO,Peter Botten,Oil Search,23,1994,Energy,INSIDER,Papua New Guinea,NO,175,46,185,,,318,131,619,83,6,498,80.32,62.5935,MALE,61
+81-100,100,NO,Ola Roll?n ,Hexagon,17,2000,Information Technology,OUTSIDER,Sweden,NO,53,636,685,,,"3,724",15,"4,395",11,12,298,53.31,51.22,MALE,51

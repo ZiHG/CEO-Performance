@@ -1,4 +1,4 @@
-# CEO-Performance
+# CEO Performance
 Data Visualization in R
 
 ![data visualization](https://github.com/ZiHG/CEO-Performance/blob/master/in%20or%20out.png)
